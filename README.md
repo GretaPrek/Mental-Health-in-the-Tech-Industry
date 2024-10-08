@@ -1,12 +1,9 @@
-# DS.v3.2.1.5
-Project - Mental Health in the Tech Industry
-Turing College Data Science Module 1 Sprint 1 by Greta Prekeriene
-
+# Mental Health in the Tech Industry
 Objective:
 
-Practice performing EDA using Pandas.
-Practice visualizing data with Matplotlib & Seaborn.
-Practice estimating population parameters from sample data and communicating uncertainty around your insights.
+Performing EDA using Pandas.
+Visualizing data with Matplotlib & Seaborn.
+Estimating population parameters from sample data and communicating uncertainty around your insights.
 
 Dataset:
 
